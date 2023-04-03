@@ -1,46 +1,66 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import java.io.IOException;
+import ex01.Calc;
 import static org.junit.Assert.fail;
 
+
+ /**
+ * The class Main test
+ */ 
 public class MainTest {
 
     private static final double DELTA = 0.001;
 
     @Test
-    public void testCalculateSinAverage() {
+
+/** 
+ * Test calculate sin average
+ */
+    public void testCalculateSinAverage() { 
+
         Calc calc = new Calc();
-        double result = calc.calculateSinAverage(0, 90, 180, 270);
+        double result = calc.calculateSinAverage(90, 90, 90, 90);
         assertEquals(1000, result, DELTA);
     }
 
     @Test
-    public void testCalculateOnesCount() {
+
+/** 
+ * Test calculate ones count
+ */
+    public void testCalculateOnesCount() { 
+
         Calc calc = new Calc();
-        int result = calc.calculateOnesCount(0, 90, 180, 270);
-        assertEquals(5, result);
+        int result = calc.calculateOnesCount(90, 90, 90, 90);
+        assertEquals(6, result);
     }
 
     @Test
-    public void testInit() {
+
+/** 
+ * Test init
+ */
+    public void testInit() { 
+
         Calc calc = new Calc();
-        calc.init(0, 90, 180, 270);
+        calc.init(90, 90, 90, 90);
         double result = calc.getResult();
         assertEquals(1000, result, DELTA);
     }
 
     @Test
-    public void testSaveAndRestore() {
+
+/** 
+ * Test save and restore
+ */
+    public void testSaveAndRestore() { 
+
         Calc calc = new Calc();
-        calc.init(0, 90, 180, 270);
+        calc.init(90, 90, 90, 90);
         try {
             calc.save();
-            calc.init(1, 91, 181, 271);
+            calc.init(91, 91, 91, 91);
             calc.restore();
         } catch (IOException | ClassNotFoundException e) {
             fail("Exception should not have been thrown");
