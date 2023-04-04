@@ -15,7 +15,7 @@ public class Main {
 /** 
  * Menu
  */
-    private void menu() { 
+    private void menu() throws Exception { 
 
         String s = null;
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
@@ -74,8 +74,9 @@ public class Main {
  * Main
  *
  * @param args  the args
+     * @throws java.lang.Exception
  */
-    public static void main(String[] args) { 
+    public static void main(String[] args) throws Exception { 
 
         Main main = new Main();
         main.menu();
