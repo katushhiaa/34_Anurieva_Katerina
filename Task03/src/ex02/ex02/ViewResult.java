@@ -73,7 +73,6 @@ public class ViewResult implements View {
         double sin3 = Math.sin(Math.toRadians(arg3));
         double sin4 = Math.sin(Math.toRadians(arg4));
         return Math.round(1000 * (sin1 + sin2 + sin3 + sin4) / 4.0);
-
     }
 
     /**
@@ -92,27 +91,15 @@ public class ViewResult implements View {
         int onesCount = (int) binaryString.chars().filter(c -> c == '1').count();
         return onesCount;
     }
-
-    /**
-     *
-     * @param stepX
-     */
-    public void init(double stepX) {
-        double arg1 = 0;
-        double arg2 = 0;
-        double arg3 = 0;
-        double arg4 = 0;
+    
+    public void init() {
         for (Item2d item : items) {
-            item.setArg1(arg1);
-            item.setArg2(arg2);
-            item.setArg3(arg3);
-            item.setArg4(arg4);
-            item.setSinAverage(calculateSinAverage(arg1, arg2, arg3, arg4));
-            item.setOnesOut(calculateOnesCount(arg1, arg2, arg3, arg4));
-            arg1 += stepX;
-            arg2 += stepX+1;
-            arg3 += stepX+2;
-            arg4 += stepX+3;
+            item.setArg1(Math.random() * 360);
+            item.setArg2(Math.random() * 360);
+            item.setArg3(Math.random() * 360);
+            item.setArg4(Math.random() * 360);
+            item.setSinAverage(calculateSinAverage(item.getArg1(), item.getArg2(), item.getArg3(), item.getArg4()));
+            item.setOnesOut(calculateOnesCount(item.getArg1(), item.getArg2(), item.getArg3(), item.getArg4()));
         }
     }
 
@@ -121,7 +108,7 @@ public class ViewResult implements View {
      */
     @Override
     public void viewInit() {
-        init(Math.random() * 360);
+        init();
     }
 
     /**
@@ -161,7 +148,7 @@ public class ViewResult implements View {
     @Override
     public void viewBody() {
         for (Item2d item : items) {
-            System.out.printf("(%.0f; %.0f; %.0f; %.0f; %.2f; %.0f)\n", item.getArg1(), item.getArg2(), item.getArg3(), item.getArg4(), item.getSinAverage(), item.getOnesOut());
+            System.out.printf("[%.0f; %.0f; %.0f; %.0f; %.2f; %.0f]\n", item.getArg1(), item.getArg2(), item.getArg3(), item.getArg4(), item.getSinAverage(), item.getOnesOut());
         }
         System.out.println();
     }
