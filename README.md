@@ -30,3 +30,29 @@
 Результат тестування програми:
 
 ![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task02/images/Task02_Test.jpg "Task02_Test")
+
+# Task03
+
+**Завдання**
+
+Завдання:
+
+1. Як основа використовувати вихідний текст проекту попередньої лабораторної роботи. Забезпечити розміщення результатів обчислень уколекції з можливістю збереження/відновлення.
+
+2. Використовуючи шаблон проектування Factory Method (Virtual Constructor), розробити ієрархію, що передбачає розширення рахунок додавання нових відображуваних класів.
+
+3. Розширити ієрархію інтерфейсом "фабрикованих" об'єктів, що представляє набір методів для відображення результатів обчислень.
+
+4. Реалізувати ці методи виведення результатів у текстовому виді.
+
+5. Розробити та реалізувати інтерфейс для "фабрикуючого" методу.
+
+Результат виконання завдання:
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task03/images/Task03_Result1.jpg "Task03_Result1")
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task03/images/Task03_Result2.jpg "Task03_Result2")
+
+Результат тестування програми:
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task03/images/Task03_Test.jpg "Task03_Test")
