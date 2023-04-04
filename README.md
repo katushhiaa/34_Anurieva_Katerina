@@ -47,9 +47,7 @@
 
 Результат виконання завдання:
 
-![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task03/images/Task03_Result1.jpg "Task03_Result1")
-
-![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task03/images/Task03_Result2.jpg "Task03_Result2")
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task03/images/Task03_Result.jpg "Task03_Result")
 
 Результат тестування програми:
 
