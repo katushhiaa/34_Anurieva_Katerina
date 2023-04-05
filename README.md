@@ -52,3 +52,25 @@
 Результат тестування програми:
 
 ![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task03/images/Task03_Test.jpg "Task03_Test")
+
+# Task04
+
+**Завдання:**
+
+1. За основу використовувати вихідний текст проекту попередньої лабораторної роботи Використовуючи шаблон проектування Factory Method (Virtual Constructor), розширити ієрархію похідними класами, реалізують методи для подання результатів у вигляді текстової таблиці. Параметри відображення таблиці мають визначатися користувачем.
+2. Продемонструвати заміщення (перевизначення, overriding), поєднання (перевантаження, overloading), динамічне призначення методів (Пізнє зв'язування, поліморфізм, dynamic method dispatch).
+3. Забезпечити діалоговий інтерфейс із користувачем.
+4. Розробити клас для тестування основної функціональності.
+5. Використати коментарі для автоматичної генерації документації засобами javadoc.
+
+Результат виконання завдання:
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task04/images/Task04_Result1.jpg "Task04_Result1")
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task04/images/Task04_Result2.jpg "Task04_Result2")
+
+Результат тестування програми:
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task04/images/Task04_Test.jpg "Task04_Test")
+
+
