@@ -89,7 +89,7 @@
 
 ![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Result2.jpg "Task05_Result2")
 
-![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Result4.jpg "Task05_Result3")
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Result3.jpg "Task05_Result3")
 
 ![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Result4.jpg "Task05_Result4")
 
