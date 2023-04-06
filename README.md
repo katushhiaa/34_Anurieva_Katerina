@@ -73,4 +73,28 @@
 
 ![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task04/images/Task04_Test.jpg "Task04_Test")
 
+# Task05
+
+**Завдання:**
+
+1. Реалізувати можливість скасування (undo) операцій (команд).
+2. Продемонструвати поняття "макрокоманда"
+3.При розробці програми використовувати шаблон Singletone.
+4. Забезпечити діалоговий інтерфейс із користувачем.
+5.Розробити клас для тестування функціональності програми.
+
+Результат виконання завдання:
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Result1.jpg "Task05_Result1")
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Result2.jpg "Task05_Result2")
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Result4.jpg "Task05_Result3")
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Result4.jpg "Task05_Result4")
+
+Результат тестування програми:
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Test.jpg "Task05_Test")
+
 
