@@ -97,4 +97,20 @@
 
 ![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Test.jpg "Task05_Test")
 
+# Task06
+
+**Завдання:**
+
+1. Продемонструвати можливість паралельної обробки елементів колекції (пошук мінімуму, максимуму, обчислення середнього значення, відбір за критерієм, статистична обробка тощо).
+2. Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread.
+
+Результат виконання завдання:
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task06/images/Task06_Result1.jpg "Task06_Result1")
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task06/images/Task06_Result2.jpg "Task05_Result2")
+
+Результат тестування програми:
+
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task06/images/Task06_Test.jpg "Task06_Test")
 
