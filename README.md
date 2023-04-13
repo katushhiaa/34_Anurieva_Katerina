@@ -77,9 +77,7 @@
 
 ### Результат виконання завдання:
 
-![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task04/images/Task04_Result1.jpg "Task04_Result1")
-
-![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task04/images/Task04_Result2.jpg "Task04_Result2")
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task04/images/Task04_Result.png "Task04_Result")
 
 ### Результат тестування програми:
 
@@ -105,10 +103,6 @@
 
 ![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Result2.jpg "Task05_Result2")
 
-![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Result3.jpg "Task05_Result3")
-
-![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Result4.jpg "Task05_Result4")
-
 Результат тестування програми:
 
 ![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task05/images/Task05_Test.jpg "Task05_Test")
@@ -126,9 +120,7 @@
 
 ### Результат виконання завдання:
 
-![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task06/images/Task06_Result1.jpg "Task06_Result1")
-
-![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task06/images/Task06_Result2.jpg "Task05_Result2")
+![alt-текст](https://github.com/katushhiaa/34_Anurieva_Katerina/blob/main/Task06/images/Task06_Result.jpg "Task06_Result1")
 
 ### Результат тестування програми:
 
